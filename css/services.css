@@ -1,0 +1,88 @@
+#heading1{
+    text-align: center;
+
+}
+.paragraph{
+    color: lightblue;
+    font-family: "Felix Titling";
+    font-size: 18px;
+}
+#mydivision{
+    background-color: dodgerblue;
+    margin: 50px;
+    padding: 30px;
+}
+#mydivision h1{
+    color: white;
+    text-align: center;
+}
+#test{
+    display:flex;
+    padding: 30px;
+    background-color: gray;
+    margin:50px;
+    color: white;
+}
+#test img{
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    margin-right: 30px;
+}
+#main{
+    background-color: gray;
+
+    border-radius: 20px;
+}
+#main h1{
+    text-align:center;
+    font-weight: bolder;
+    color: white;
+    padding: 20px;
+}
+#flex{
+    display: flex;
+}
+#advertisement{
+    background-color: red;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom:20px;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 12px 12px 12px 12px darkgrey;
+}
+#accounting{
+    background-color: blue;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom:20px;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 12px 12px 12px 12px darkgrey;
+}
+#payment{
+    background-color: green;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom:20px;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 12px 12px 12px 12px darkgrey;
+}
+#advertisement img{
+    width: 300px;
+    height: 250px;
+}
+#accounting img{
+    width: 300px;
+    height: 250px;
+}
+#payment img{
+    width: 300px;
+    height: 250px;
+}
+
